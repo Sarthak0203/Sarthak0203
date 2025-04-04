@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CRM-Inventory-Management-System CRM<br>👨‍💻 Some of my projects are available at https://sarthakchaudhary.vercel.app<br>💬 Ask me about MERN Stack, Next.js, PostgreSQL<br>📫 How to reach me taliyansarthak12@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1zh8bhbP-J2q-G6ezgZRpJRfXm5qJFXAj/view?usp=sharing<br>⚡ Fun fact I Think I am funny XD
+🔭 I’m currently working on CRM-Inventory-Management-System CRM<br>👨‍💻 Some of my projects are available at https://sarthakchaudhary.vercel.app<br>💬 Ask me about MERN Stack, Next.js, PostgreSQL<br>📫 How to reach me taliyansarthak12@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1p4u2pdetRkentQetlNd2GFnIBbMFgjPG/view?usp=sharing<br>⚡ Fun fact I Think I am funny XD
 
 
 ## 🌐 Socials:
